@@ -12,7 +12,7 @@ class CreateVector(list):
 
     CreateVector class inherits the list object for the output to be a list.
 
-    Parameters:
+    Arguments:
     ---------
     @type point1: Coordinate
     @type point2: Coordinate
