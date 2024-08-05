@@ -9,7 +9,6 @@ Functions:
 1. draw: None
 """
 
-from libraries.calculate import CreateVector
 from libraries.config import *
 
 def run(window: Surface, width: int, height: int) -> None:
