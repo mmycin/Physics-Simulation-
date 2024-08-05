@@ -31,3 +31,10 @@ $ python main.py
 ```
 
 [![Demo](https://raw.githubusercontent.com/mmycin/Physics-Simulation-/master/thumbnai..jpg)](https://raw.githubusercontent.com/mmycin/Physics-Simulation-/master/20240805-1850-04.3335478.mp4)
+
+## Building
+To export it as an executable app, we'll use pyinstaller
+```bash
+$ pyinstaller --name PhysicsSimulator --onefile --windowed --icon=icon.ico main.py
+```
+It will make a PhysicsSimulator.exe at the `dist/` folder. Now you can use it and make a Setup file.
