@@ -30,4 +30,4 @@ To run this app, simply write run the main file
 $ python main.py
 ```
 
-[![Demo](https://raw.githubusercontent.com/mmycin/Physics-Simulation-/master/thumbnai..jpg)](https://raw.githubusercontent.com/mmycin/Physics-Simulation-/blob/master/20240805-1850-04.3335478.mp4)
+[![Demo](https://raw.githubusercontent.com/mmycin/Physics-Simulation-/master/thumbnai..jpg)](https://raw.githubusercontent.com/mmycin/Physics-Simulation-/master/20240805-1850-04.3335478.mp4)
