@@ -77,3 +77,4 @@ def draw(window: Surface, space: Space, draw_options: utils.DrawOptions, line: L
         pygame.draw.line(surface=window, color="black", start_pos=line[0], end_pos=line[1], width=3)
         # print(line)
     pygame.display.update()
+    return
